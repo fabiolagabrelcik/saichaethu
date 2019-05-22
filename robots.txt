@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ecaisinge.beyond-code.com/sitemap.xml
